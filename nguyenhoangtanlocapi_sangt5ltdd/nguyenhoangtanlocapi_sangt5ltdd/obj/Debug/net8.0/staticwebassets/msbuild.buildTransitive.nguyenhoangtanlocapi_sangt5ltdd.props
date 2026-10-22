@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/nguyenhoangtanlocapi_sangt5ltdd.props" />
+</Project>
